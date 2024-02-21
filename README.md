@@ -1,5 +1,3 @@
-# cab_bikeshare
-Capital Bike Share
 Welcome to the Project 3 which focuses on Data Wrangling, Exploratory Data Analysis, Time Series and Linear Regression.
 
 You will have to analyse a dataset from a company called Capital Bike Share. We will come back to this project with a Machine Learning problem during the second module, in order to forecast the bike demand.
